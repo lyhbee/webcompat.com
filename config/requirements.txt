@@ -13,3 +13,4 @@ requests==2.25.1
 ua-parser==0.10.0
 Werkzeug==2.0.1
 WTForms==2.3.3
+protobuf>=5.29.6 # not directly required, pinned by Snyk to avoid a vulnerability
